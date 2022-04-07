@@ -46,9 +46,9 @@
   <a href="http://twitter.com/indracahyaram23">
     <img src="https://img.shields.io/twitter/follow/indracahyaram23?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/gMEFkyhG">
+  <!---<a href="https://discord.gg/gMEFkyhG">
     <img src="https://img.shields.io/discord/764845482257285140?logo=discord&style=for-the-badge" />
-  </a>
+  </a>-->
    <a href="https://instagram.com/indrawiharjaa_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
