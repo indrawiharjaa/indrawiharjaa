@@ -1,13 +1,13 @@
 
 
-<img align='right' src = "https://github-readme-stats.vercel.app/api?username=indracahyaramdani&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=15">
+<img align='right' src = "https://github-readme-stats.vercel.app/api?username=indrawiharjaa&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=15">
 
 
 
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Indra Ramdani 
 
 <p align="justify">
- Saya Indra Cahya Ramdani, lulusan program matematika. Tertarik pada bidang pendidikan, Data, dan Programming. Saat ini saya menguasai bahasa pemrograman Python, SQL, dan R. Selain itu, saya dapat menggunakan BI tools saat ini hanya Tableu dan Looker Studio. Membahas terkait bidang pendidikan di Indonesia tingkat literasi sangat kurang sehingga saya tertarik untuk mencoba membagikan pengetahuan saya pada Github atau Sosial Media saya. Pendidikan bukan hanya sekedar belajar materi dimata kuliah atau sekolah, pendidikan yang saya maksud adalah bagaimana cara orang dapat memahami pemikiran saya dan pemikiran orang lain. Semoga Allah SWT senantiasa memberikan segala limpahan rahmat kepada kita semua Aamiin.
+ Saya Indra  Ramdani, lulusan program matematika. Tertarik pada bidang pendidikan, Data, dan Programming. Saat ini saya menguasai bahasa pemrograman Python, SQL, dan R. Selain itu, saya dapat menggunakan BI tools saat ini hanya Tableu dan Looker Studio. Membahas terkait bidang pendidikan di Indonesia tingkat literasi sangat kurang sehingga saya tertarik untuk mencoba membagikan pengetahuan saya pada Github atau Sosial Media saya. Pendidikan bukan hanya sekedar belajar materi dimata kuliah atau sekolah, pendidikan yang saya maksud adalah bagaimana cara orang dapat memahami pemikiran saya dan pemikiran orang lain. Semoga Allah SWT senantiasa memberikan segala limpahan rahmat kepada kita semua Aamiin.
   
 </p>
 
@@ -15,25 +15,16 @@
 <br>
 
 <div>
-<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=indracahyaramdani&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=15&line_width=15">
+<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=indrawiharjaa&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=15&line_width=15">
 </div>
 
 
 ### ✨ My Top Repositories
 
-<!--
-- [**My Personal Projects**](https://github.com/eliyanto29/My-Personal-Projects) - *Here is place to share my personal projects that I have done*
-- [**DQLab**](https://github.com/eliyanto29/DQLab) - *Share what I have learn in awesome DQ-Lab Learning Platform*
-- [**Coursera**](https://github.com/eliyanto29/Coursera) - *Share what I have learn in awesome Courseera Learning Platform*
-- [**My Academics Paper**](https://github.com/eliyanto29/My-Academics-Paper-On-Data-Science) - *Place for my academics paper for free*
--->
-<br>
-<br>
-<br>
 
 ### 📱 You Can Reach Me at
 <!--<p>
-  <a href="https://www.linkedin.com/in/indra-cahya-ramdani-5178881a3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/indraramdani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/indracahyaramdani" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://instagram.com/indrawiharjaa_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/indracahyaram23" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -43,8 +34,8 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/indracahyaramdani?tab=followers">
-    <img src="https://img.shields.io/github/followers/indracahyaramdani?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/indrawiharjaa?tab=followers">
+    <img src="https://img.shields.io/github/followers/indrawiharjaa?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/indracahyaram23">
     <img src="https://img.shields.io/twitter/follow/indracahyaram23?label=Twitter&logo=twitter&style=for-the-badge" />
