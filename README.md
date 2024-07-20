@@ -4,7 +4,7 @@
 
 
 
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Indra Cahya Ramdani 
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Indra Ramdani 
 
 <p align="justify">
  Saya Indra Cahya Ramdani, lulusan program matematika. Tertarik pada bidang pendidikan, Data, dan Programming. Saat ini saya menguasai bahasa pemrograman Python, SQL, dan R. Selain itu, saya dapat menggunakan BI tools saat ini hanya Tableu dan Looker Studio. Membahas terkait bidang pendidikan di Indonesia tingkat literasi sangat kurang sehingga saya tertarik untuk mencoba membagikan pengetahuan saya pada Github atau Sosial Media saya. Pendidikan bukan hanya sekedar belajar materi dimata kuliah atau sekolah, pendidikan yang saya maksud adalah bagaimana cara orang dapat memahami pemikiran saya dan pemikiran orang lain. Semoga Allah SWT senantiasa memberikan segala limpahan rahmat kepada kita semua Aamiin.
